@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate in profiting from others experience
 - 📫 How to reach me 
-- linked in : 
+- linked in : abdullah-omran
 - whats app : 0155460453
 
