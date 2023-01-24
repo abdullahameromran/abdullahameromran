@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdullahameromran
+- 👋 Hi, I’m @abdullah amer omran
 - 👋 I’m in faculty of computer science menoufia university
 - 👀 I’m interested in web delevlopment
 - 🌱 I’m currently learning node js
